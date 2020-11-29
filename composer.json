@@ -13,7 +13,6 @@
         }
     ],
     "require": {
-        "react/http": "^v1.0.0",
         "ildarsaitkulov/mpcmf-console": "dev-master",
         "ildarsaitkulov/mpcmf-core": "dev-master",
         "guzzlehttp/psr7": "1.4.2"
