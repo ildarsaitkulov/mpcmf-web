@@ -23,7 +23,11 @@
     "repositories": [
         {
             "type": "vcs",
-            "url": "git@github.com:greevex/mpcmf-console.git"
+            "url": "git@github.com:ildarsaitkulov/mpcmf-console.git"
+        },
+        {
+            "type": "vcs",
+            "url": "git@github.com:ildarsaitkulov/mpcmf-core.git"
         }
     ],
     "autoload": {
